@@ -1,2 +1,2 @@
 # HackerRank
-I put sorce code that solve problems of HackerRank.
+I put source codes that solve problems of HackerRank.
